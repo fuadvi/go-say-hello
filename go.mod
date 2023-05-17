@@ -1,3 +1,3 @@
-module github.com/fuadvi/go-say-hello.git
+module github.com/fuadvi/go-say-hello
 
 go 1.20
